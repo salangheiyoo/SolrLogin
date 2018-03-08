@@ -24,7 +24,7 @@
     <!-- 定义跳转的文件的前后缀 ，视图模式配置 -->
     <bean id="viewResolvers" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix">
-            <value>/WEB-INF/pages/</value>
+            <value>/WEB-INF/page/</value>
         </property>
         <property name="suffix">
             <value>.jsp</value>
