@@ -55,3 +55,15 @@ solr-login-site/target/classes/spring.xml
 solr-login-site/target/classes/mybatis/spring-mybatis.xml
 solr-login-site/target/classes/log4j.properties
 solr-login-site/target/classes/application.properties
+.settings/org.eclipse.core.resources.prefs
+.project
+.settings/org.eclipse.m2e.core.prefs
+solr-login-base/.classpath
+solr-login-base/.settings/org.eclipse.core.resources.prefs
+solr-tocken/target/classes/META-INF/MANIFEST.MF
+solr-tocken/target/classes/META-INF/maven/org.calangheiyo/solr-tocken/pom.properties
+solr-tocken/target/classes/META-INF/maven/org.calangheiyo/solr-tocken/pom.xml
+solr-login-base/.settings/org.eclipse.jdt.core.prefs
+solr-login-base/.settings/org.eclipse.m2e.core.prefs
+solr-login-base/.settings/org.eclipse.wst.common.component
+solr-login-base/.settings/org.eclipse.wst.common.project.facet.core.xml
