@@ -8,9 +8,15 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>Title</title>
+    <title>Soul</title>
 </head>
 <body>
+        <form id="login" action="/doLogin"  name="loginForm" method="post">
+            <input type="hidden" name="_unq_tfmk_id" value=""/>
+            <input name="username" value="" placeholder="example@domain.com"/>
+            <input name="password" value=""/>
+            <button type="submit"/>
+        </form>
 
 </body>
 </html>
